@@ -1,4 +1,4 @@
-const yargs = require('yargs')
+const yargs = require('yargs');
 const noteHandler = require('./handler');
 
 yargs.command({
